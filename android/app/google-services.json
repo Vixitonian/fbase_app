@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821785474289",
+    "project_id": "project-todo-1708c",
+    "storage_bucket": "project-todo-1708c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821785474289:android:0168185b5364bb61072550",
+        "android_client_info": {
+          "package_name": "com.example.fbase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBElWdsfy5bAYJ4PhxS_oZ-qsFR6PJgZ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
